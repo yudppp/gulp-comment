@@ -1,0 +1,27 @@
+{
+  "name": "gulp-comment",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yudppp/gulp-comment.git"
+  },
+  "author": "yudppp",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/yudppp/gulp-comment/issues"
+  },
+  "dependencies": {
+    "through2": "~0.6.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.8",
+    "gulp-jshint": "~1.8.5",
+    "jshint-stylish": "~1.0.0"
+  }
+}
