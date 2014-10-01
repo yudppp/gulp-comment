@@ -1,5 +1,5 @@
 var through = require('through2');
-var gulpComment = function(comment) {
+var gulpComment = function() {
   return through.obj(transform);
 };
 
